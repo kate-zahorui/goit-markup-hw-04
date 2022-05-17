@@ -217,6 +217,17 @@ header .contacts {
 	width: 270px;
 }
 
+.advantage-bg {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 120px;
+	border-radius: 4px;
+	margin-bottom: 30px;
+
+	background-color: var(--background-light-color);
+}
+
 .advantage-title {
 	margin-bottom: 10px;
 	font-size: 14px;
@@ -279,7 +290,6 @@ header .contacts {
 	width: 44px;
 	height: 44px;
 	border-radius: 50%;
-	/* background-color: skyblue; */
 	color: #afb1b8;
 }
 
